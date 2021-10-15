@@ -12,8 +12,5 @@ https://user-images.githubusercontent.com/88600263/137418442-a4d5bf14-1fb0-4e69-
 The crash happens because two threads are trying to access the same resource at the same time. Using Thread safe array implemnted with Dispatch semaphore solves this problem.
 
 
-![Simulator Screen Shot - iPhone 13 mini - 2021-10-14 at 20 37 14](https://user-images.githubusercontent.com/88600263/137418427-b751c1dd-313a-445c-a168-9cf46e163956.png)
 
-
-
-
+![Screen Shot 2021-10-14 at 9 40 57 PM](https://user-images.githubusercontent.com/88600263/137418799-42517a14-a83e-45ab-846c-21f17f661b5b.png)
